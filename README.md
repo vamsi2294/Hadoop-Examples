@@ -1,5 +1,5 @@
 # Hadoop-Examples
-Cloud Computing Assignments
+Cloud Computing 
 Instructions:
 
 -MapReduce jobs were executed in Cloudera. 
